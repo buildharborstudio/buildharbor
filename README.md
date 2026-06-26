@@ -8,6 +8,12 @@ We specialize in creating modern mobile applications, scalable backend systems, 
 
 ---
 
+## Why BuildHarbor Studio?
+
+We help startups and growing businesses transform ideas into production-ready software through modern engineering practices, clear communication, and long-term thinking.
+
+---
+
 ## What We Build
 
 - 📱 Mobile Applications
