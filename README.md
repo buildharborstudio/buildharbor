@@ -1,8 +1,10 @@
 # BuildHarbor Studio
 
-> **Building production-ready software for startups and growing businesses.**
+> **Building reliable software for startups and growing businesses.**
 
-BuildHarbor Studio is a software engineering studio that helps startups and growing businesses design, build, and evolve reliable digital products.
+**Thoughtful engineering. Clean architecture. Long-term value.**
+
+BuildHarbor Studio helps startups and growing businesses design, build, and evolve reliable digital products.
 
 We build modern mobile applications, scalable backend systems, and full-stack web applications with long-term maintainability in mind.
 
@@ -18,51 +20,31 @@ We believe successful software is measured not only by how quickly it ships, but
 
 ---
 
-## Who We Help
+## How We Help
 
-We partner with businesses that value quality engineering and long-term thinking.
+Whether you're validating an idea, launching a new product, or improving an existing one, we help build software that's designed for real users and long-term success.
 
-Whether you're validating an idea, launching an MVP, or expanding an existing product, we help build software that's ready for real users.
+Our work includes:
 
-Typical engagements include:
-
-- 🚀 Startup MVPs
 - 📱 Mobile applications
-- 🌐 Full-stack web applications
-- ⚙ Backend systems and APIs
-- 🔄 Product modernization and feature development
+- 🌐 Web applications
+- ⚙️ Backend systems and APIs
+- 🚀 New digital products
+- 🔄 Product modernization and enhancements
 
 ---
 
-## Services
+## How We Build
 
-### 📱 Mobile Application Development
+Every project is guided by a few simple principles:
 
-Native Android and Kotlin Multiplatform applications built for performance, maintainability, and future growth.
+- Build for maintainability.
+- Keep architecture simple.
+- Prefer clarity over cleverness.
+- Communicate openly.
+- Make decisions with long-term value in mind.
 
-### 🌐 Web Application Development
-
-Modern, responsive web applications with scalable architecture and intuitive user experiences.
-
-### ⚙ Backend Engineering
-
-Production-ready APIs and backend systems built using clean architecture and modern engineering practices.
-
-### 🚀 MVP Development
-
-Helping founders launch products quickly while establishing a strong technical foundation for future growth.
-
----
-
-## Why Choose BuildHarbor Studio?
-
-✔ Engineering-first approach
-
-✔ Production-ready quality
-
-✔ Clear communication throughout the project
-
-✔ Long-term partnership mindset
+Our goal is to build software that's easier to understand, evolve, and support.
 
 ---
 
@@ -70,65 +52,48 @@ Helping founders launch products quickly while establishing a strong technical f
 
 ### 🚧 FieldOps *(Currently in Development)*
 
-A production-ready Field Service Management platform showcasing modern software engineering across mobile, web, and backend.
+A Field Service Management platform designed to showcase production-quality engineering across Android, backend, and web technologies.
 
-**Technology**
+**Core Technologies**
 
-- Android
+- Kotlin & Android
 - Spring Boot
 - React
 - PostgreSQL
 - Firebase
 
-> Additional projects and case studies will be published as they are completed.
+Additional portfolio projects and technical case studies will be published as they are completed.
 
 ---
 
-## Technology Stack
+## Core Technologies
 
-We use modern, widely adopted technologies chosen for reliability, scalability, and long-term maintainability.
+We choose technologies based on reliability, maintainability, and long-term value.
 
-### Mobile
+### Android & Mobile
 
 - Kotlin
 - Android
 - Kotlin Multiplatform (KMP)
 
-### Frontend
+### Web
 
 - React
-- TypeScript
 
 ### Backend
 
 - Spring Boot
-- PostgreSQL
+
+### Cloud
+
 - Firebase
 - AWS
 
 ---
 
-## How We Build
-
-Every project follows a few simple principles:
-
-- ✅ Production-ready by default
-- ✅ Maintainable over clever
-- ✅ Simplicity before complexity
-- ✅ Clear communication
-- ✅ Long-term thinking
-
-Our goal is to deliver software that's easier to maintain, simpler to evolve, and ready to support real business growth.
-
----
-
 ## Let's Talk
 
-Whether you're planning a new product or improving an existing one, we'd love to hear about your idea and explore how BuildHarbor Studio can help.
-
----
-
-## Contact
+If you're looking for an engineering partner who values quality, maintainability, and clear communication, let's start a conversation.
 
 📧 **buildharborstudio@gmail.com**
 
